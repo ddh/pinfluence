@@ -19,6 +19,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'paperclip'
+gem 'masonry-rails' # Used for fluid images
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
