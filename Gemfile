@@ -20,6 +20,7 @@ gem 'devise'
 gem 'bootstrap-sass'
 gem 'paperclip'
 gem 'masonry-rails' # Used for fluid images
+gem 'acts_as_votable' # Allows voting on models
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
